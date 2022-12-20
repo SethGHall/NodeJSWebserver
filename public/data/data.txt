@@ -1,0 +1,5 @@
+Welcome Seth,
+
+This is just a a standard text file  to be sent over HTTP
+
+KBYE

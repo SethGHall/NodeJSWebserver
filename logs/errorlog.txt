@@ -1,0 +1,15 @@
+0)	2022-12-13	14:57:16:936	c5296f36-6ee1-4fa3-9a8f-1b5f738e8097	Error	Not allowed by CORS
+0)	2022-12-13	14:57:16:970	6bb6118b-13f3-4343-9b9a-12d235c8a336	Error	Not allowed by CORS
+0)	2022-12-13	14:57:38:120	8d5d9423-2129-485a-88d5-ba77d8cbe701	Error	Not allowed by CORS
+0)	2022-12-19	08:22:12:850	34f40550-fa67-4cd3-bbaf-2d232c1189d6	Error	ENOENT: no such file or directory, stat 'C:\Users\Seth\Desktop\NodeJSByDaveGrey\webserverTutorial\views\subdir\test.html'
+0)	2022-12-19	10:11:42:527	917aae6e-f34c-4807-9580-5eb57fd196ab	Error	Not allowed by CORS
+0)	2022-12-19	10:11:59:881	1bdf476b-4e81-4b16-b9d9-9c9870f6432e	Error	Not allowed by CORS
+0)	2022-12-19	10:19:49:093	30520c5c-e44f-42ba-b318-ec93b1f4aeb8	SyntaxError	Unexpected string in JSON at position 12
+0)	2022-12-19	11:52:51:770	53675c74-f9d8-4873-84d8-4855e8548271	Error	Not allowed by CORS
+0)	2022-12-19	11:56:02:011	e0cb9bfb-043e-4685-996e-d36020f6267b	TypeError	Cannot read properties of undefined (reading 'firstName')
+0)	2022-12-19	12:24:21:990	e17114a2-84fc-42ba-a49d-97bb3d1ca1b0	Error	Cannot set headers after they are sent to the client
+0)	2022-12-19	12:24:32:264	d536ae87-5029-4a4b-8d3d-e82089a0c85d	Error	Cannot set headers after they are sent to the client
+0)	2022-12-19	12:27:49:489	8dff6773-e9f2-48ac-b919-870dd866c6e0	TypeError	Assignment to constant variable.
+0)	2022-12-19	12:28:55:299	4a7d7933-d8ca-421f-9ea9-a411bce0699c	TypeError	Assignment to constant variable.
+0)	2022-12-19	12:29:57:680	fab181e9-5e9b-41dd-a5c7-423ff82ab127	Error	Cannot set headers after they are sent to the client
+0)	2022-12-19	13:47:42:081	b86d82ca-9f78-4611-ac66-2ff028a06f2d	SyntaxError	Unexpected string in JSON at position 20
